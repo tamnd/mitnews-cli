@@ -1,0 +1,10 @@
+title       = "mit"
+baseURL     = "https://mitnews-cli.tamnd.com/"
+description = "Browse MIT News research and science stories"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/mitnews-cli"
